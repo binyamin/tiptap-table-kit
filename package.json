@@ -26,16 +26,16 @@
     "prepack": "npm run types"
   },
   "peerDependencies": {
-    "@tiptap/core": "^2.0.0-beta.141"
+    "@tiptap/core": "^2.0.0-beta.175"
   },
   "dependencies": {
-    "@tiptap/extension-table": "^2.0.0-beta.43",
+    "@tiptap/extension-table": "^2.0.0-beta.48",
     "@tiptap/extension-table-cell": "^2.0.0-beta.20",
     "@tiptap/extension-table-header": "^2.0.0-beta.22",
     "@tiptap/extension-table-row": "^2.0.0-beta.19"
   },
   "devDependencies": {
-    "typescript": "^4.5.2"
+    "typescript": "^4.6.4"
   },
   "repository": {
     "type": "git",
